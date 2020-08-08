@@ -21,5 +21,5 @@ Um pouco sobre mim:
 <br/> :purple_heart: &nbsp; Tentando aprender mais sobre linguagens de programação como Javascript.
 <br/> 💬  &nbsp; Sobre mim: Eu amo tecnologia e ciências exatas. Amo jogar jogos como LoL, DbD, Minecraft e etc, assim como ler um bom livro.
 <br/> :loudspeaker: Eu falo português, inglês e alemão.
- <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/gabriela-koepsel/ or gabriela.koepsel@gmail.com 
+ <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/gabriela-koepsel/ ou gabriela.koepsel@gmail.com 
  
