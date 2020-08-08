@@ -8,7 +8,7 @@ A little about me:
 
 <br/> :purple_heart: &nbsp; Trying to learn more about programming languages as Javascript.
 <br/> 💬  &nbsp; About me: I like technology and exact sciences. Love to play games as LoL, DbD, Minecraft, etc and read a good book.
-<br/> :loudspeaker: I speak Portuguese, English and German.
+<br/> &nbsp;:loudspeaker: I speak Portuguese, English and German.
  <br/> :email: &nbsp; Contact me: https://www.linkedin.com/in/gabriela-koepsel/ or gabriela.koepsel@gmail.com 
  
  
@@ -20,6 +20,6 @@ Um pouco sobre mim:
 
 <br/> :purple_heart: &nbsp; Tentando aprender mais sobre linguagens de programação como Javascript.
 <br/> 💬  &nbsp; Sobre mim: Eu amo tecnologia e ciências exatas. Amo jogar jogos como LoL, DbD, Minecraft e etc, assim como ler um bom livro.
-<br/> :loudspeaker: Eu falo português, inglês e alemão.
+<br/> &nbsp;:loudspeaker: Eu falo português, inglês e alemão.
  <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/gabriela-koepsel/ ou gabriela.koepsel@gmail.com 
  
