@@ -12,7 +12,8 @@ A little about me:
  <br/> :email: &nbsp; Contact me: https://www.linkedin.com/in/gabriela-koepsel/ or gabriela.koepsel@gmail.com 
  
 
-
+<br/>
+<br/>
 
 # Gabriela Koepsel
 
