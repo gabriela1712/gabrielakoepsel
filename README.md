@@ -11,7 +11,9 @@ A little about me:
 <br/> &nbsp;:loudspeaker: I speak Portuguese, English and German.
  <br/> :email: &nbsp; Contact me: https://www.linkedin.com/in/gabriela-koepsel/ or gabriela.koepsel@gmail.com 
  
- 
+
+
+
 # Gabriela Koepsel
 
 Olá! Meu nome é Gabriela Koepsel e eu tenha 23 anos e sou uma eterna estudante. Atualmente estou nos últimos semestres de engenharia química na FURB, e durante esse período pude perceber a importancia de aprender novas línguas, por isso comecei a melhorar meu inglês e aprender alemão. Por causa disso, trabalhei durante 2 anos e 7 meses na T-Systems do Brasil como suporte técnico para empresas alemãs como a Deutsche Telekom, onde prestava suporte para algumas aplicações em inglês e alemão. Após isso, trabalhei durante um ano na InovEQ, a qual é uma empresa júnior de engenharia química e de alimento da FURB, na qual pude melhorar minhas softs skills e aprender muito sobre liderança. Agora estou procurando aprender mais sobre as linguagens de desenvolvimento e buscando oportunidades mundo a fora.
